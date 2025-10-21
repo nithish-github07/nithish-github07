@@ -5,7 +5,7 @@
 <img height = 200px align = "right" src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXkzaHUzb2Z0OG15NGRiOTk4dzA3d3BkamdnNmRzZzByMWExbXl0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif">
 
 ### About Me
-- 🎓 I’m currently studying **BE Computer Science and Engineering** at PSG College of Technology  
+- 🎓 I’m currently studying **BE Computer Science and Engineering** at **PSG College of Technology**  
 - 💡 I love building **interactive and modern web applications**  
 - 💻 I regularly solve coding challenges on LeetCode to strengthen my problem-solving and algorithmic thinking.
 - 🌱 I’m currently improving my skills in **JavaScript and Data Structures**  
