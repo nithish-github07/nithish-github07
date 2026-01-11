@@ -16,7 +16,7 @@
 ### Tech Stack
 #### Programming and Web Development
 <p align = 'center'> 
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js" />
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,jquery,nodejs" />
 </p>
 
 #### Tools and Technologies
