@@ -16,12 +16,12 @@
 ### Tech Stack
 #### Programming and Web Development
 <p align = 'center'> 
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,jquery,nodejs" />
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,jquery,nodejs,express,mongodb" />
 </p>
 
 #### Tools and Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
