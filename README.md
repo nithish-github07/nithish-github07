@@ -2,7 +2,6 @@
 <h3 align="center">Passionate Programmer | Student at PSG College of Technology</h3>
 
 ---
-<img height = 200px align = "right" src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXkzaHUzb2Z0OG15NGRiOTk4dzA3d3BkamdnNmRzZzByMWExbXl0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif">
 
 ### About Me
 - 🎓 I’m currently studying **BE Computer Science and Engineering** at **PSG College of Technology**  
