@@ -7,7 +7,7 @@
 - 🎓 I’m currently studying **BE Computer Science and Engineering** at **PSG College of Technology**  
 - 💡 I love building **interactive and modern web applications**  
 - 💻 I regularly solve coding challenges on **LeetCode** to strengthen my problem-solving and algorithmic thinking.
-- 🌱 I’m currently improving my skills in **JavaScript, Data Structures and Full Stack Web Development**  
+- 🌱 I’m currently improving my skills in **Java, Data Structures and Full Stack Web Development**  
 - 📫 Feel free to reach me at **nithi4527@gmail.com**  
 
 ---
@@ -15,12 +15,12 @@
 ### Tech Stack
 #### Programming and Web Development
 <p align = 'center'> 
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,jquery,nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,nodejs,express,mongodb" />
 </p>
 
 #### Tools and Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 </p>
 
 ---
