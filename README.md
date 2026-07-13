@@ -1,14 +1,14 @@
-<h1 align="center">Hi 😊 I am NITHISH S</h1>
+<h1 align="center">Hello! I am NITHISH S</h1>
 <h3 align="center">Passionate Programmer | Student at PSG College of Technology</h3>
 
 ---
 
 ### About Me
-- 🎓 I’m currently studying **BE Computer Science and Engineering** at **PSG College of Technology**  
-- 💡 I love building **interactive and modern web applications**  
-- 💻 I regularly solve coding challenges on **LeetCode** to strengthen my problem-solving and algorithmic thinking.
-- 🌱 I’m currently improving my skills in **Java, Data Structures and Full Stack Web Development**  
-- 📫 Feel free to reach me at **nithi4527@gmail.com**  
+- Third-year Computer Science student from **PSG College of Technology**, actively preparing for placements at top product-based companies
+- Hands-on experience **building and deploying full-stack applications**  
+- I regularly solve coding challenges on **LeetCode** to strengthen my problem-solving and algorithmic thinking.
+- I’m currently improving my skills in **Java, Data Structures and Full Stack Web Development**  
+- Feel free to reach me at **nithi4527@gmail.com**  
 
 ---
 
@@ -22,6 +22,14 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 </p>
+
+---
+### Featured Projects
+**[Applyo](https://github.com/nithish-github07)** — MERN Stack Job Portal
+- A full-stack job portal built with React, Node.js/Express, and MongoDB Atlas. Deployed with frontend on Vercel and backend on Render, with custom fixes for API routing and rate-limiter proxy configuration.
+
+**[SkillBridge](https://github.com/nithish-github07/SkillBridge)** - AI-Powered Personalized Learning Path Generator
+- Developed RESTful backend APIs for an AI-powered personalized learning platform using Node.js, Express.js, and MongoDB.
 
 ---
 
