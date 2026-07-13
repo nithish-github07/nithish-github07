@@ -25,7 +25,7 @@
 
 ---
 ### Featured Projects
-**[Applyo](https://github.com/nithish-github07)** — MERN Stack Job Portal
+**[Applyo](https://github.com/nithish-github07/Applyo)** — MERN Stack Job Portal
 - A full-stack job portal built with React, Node.js/Express, and MongoDB Atlas. Deployed with frontend on Vercel and backend on Render, with custom fixes for API routing and rate-limiter proxy configuration.
 
 **[SkillBridge](https://github.com/nithish-github07/SkillBridge)** - AI-Powered Personalized Learning Path Generator
